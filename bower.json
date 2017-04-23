@@ -1,0 +1,19 @@
+{
+  "name": "EvGeniy app React-Jest_Shop_Cart",
+  "version": "1.0.0",
+  "authors": [
+    "Code Whisperer <daniel@danielstern.ca>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "react": "~0.13.3",
+    "skeleton": "~2.0.4"
+  }
+}
